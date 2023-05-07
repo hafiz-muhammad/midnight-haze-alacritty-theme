@@ -1,1 +1,3 @@
-# midnight-haze-alacritty-theme
+# Midnight Haze Alacritty Theme
+
+![Screenshot](/screenshots/midnight-haze.png)
